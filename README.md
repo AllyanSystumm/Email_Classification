@@ -36,6 +36,3 @@ import pandas as pd
 
 Run command : streamlit run src/app.py
 
-<img width="1500" height="768" alt="email" src="https://github.com/user-attachments/assets/3e6de098-5c02-4dcc-9632-9d4220db0a0f" />
-
-
