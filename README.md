@@ -23,10 +23,9 @@ The dataset used for training the model was collected from **Kaggle**. Specifica
 You can access the dataset on Kaggle via the following link:
 [SMS Spam Collection Dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 
+Demo of this project :<img width="1500" height="768" alt="email" src="https://github.com/user-attachments/assets/bb8099ee-4b39-496b-8f27-734a9d2d7f6a" />
 ### Data Collection Code
 To load the data, we use the `pandas` library in Python:
-<img width="1500" height="768" alt="email" src="https://github.com/user-attachments/assets/bb8099ee-4b39-496b-8f27-734a9d2d7f6a" />
-
 
 ```python
 import pandas as pd
