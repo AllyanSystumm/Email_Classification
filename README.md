@@ -30,4 +30,9 @@ To load the data, we use the `pandas` library in Python:
 import pandas as pd
 
 # Load the dataset
-data = pd.read_csv('path_to_file/sms_spam_collection.csv')
+   data = pd.read_csv('data/mail_data.csv') 
+
+Run command : streamlit run src/app.py
+
+<img width="1500" height="768" alt="Screenshot from 2025-11-15 22-51-14" src="https://github.com/user-attachments/assets/1e05eadf-576a-42f6-bc65-afb74af59d6b" />
+
